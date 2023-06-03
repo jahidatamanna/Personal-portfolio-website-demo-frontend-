@@ -1,3 +1,3 @@
 # Personal-portfolio-website-demo-frontend-
 
-###  Here is my live website  :   http://www.studywithtamanna.com 
+###  Here is my live website  :   https://personal-portfolio-demo-design.netlify.app/
